@@ -1,0 +1,19 @@
+.gradient-text {
+  background: linear-gradient(to top, #f26e55, #e41e26);
+  -webkit-text-fill-color: transparent;
+}
+
+
+.home-text h1 {
+    background: linear-gradient(to top, #f26e55, #e41e26);
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .home-text h2 {
+    color: #000;
+  }
+ 
+  button:hover {
+    background-color: #e94e38;
+  }
+  

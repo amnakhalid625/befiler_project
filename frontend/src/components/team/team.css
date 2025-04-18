@@ -1,0 +1,7 @@
+.team-member-card {
+  aspect-ratio: 1 / 1; /* Maintain a square aspect ratio for the circular effect */
+}
+
+.team-member-card > img {
+  border-radius: 50%; /* Create the circular image */
+}

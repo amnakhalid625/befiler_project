@@ -1,0 +1,22 @@
+* {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .hamburger {
+    color: #000;
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+  
+  .hamburger:hover {
+    transform: scale(1.1);
+    color: #000;
+  }
+  
+  .hamburger-active {
+    color: #e83630;
+  }
+  
+  .navbar-button {
+    background: linear-gradient(180deg, #f37e5f 0%, #ec1c24 59%, #cf232a 100%);
+  }
+  
